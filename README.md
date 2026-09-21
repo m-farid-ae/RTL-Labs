@@ -10,6 +10,25 @@ Edaplayground link: https://www.edaplayground.com/x/B42E  (Chap 3 Labs)
 Edaplayground link: https://www.edaplayground.com/x/Vh5y  (Chap 4 Labs)
 Edaplayground link: https://www.edaplayground.com/x/whiN  (UART Project Lab)
 
+//`include "lab1_1_rtl.v"
+//`include "lab1_3_rtl.v"
+
+//`include "lab1_1_tb.v"
+//`include "lab1_3_tb.v"
+
+//`include "lab2_4_rtl.v"
+//`include "lab2_5_rtl.v"
+//`include "lab2_6a_rtl.v"
+//`include "lab2_6b_rtl.v"
+//`include "lab2_7_rtl.v"
+//`include "lab2_8_rtl.v"
+
+//`include "lab2_4_tb.v"
+//`include "lab2_5_tb.v"
+//`include "lab2_6a_tb.v"
+//`include "lab2_6b_tb.v"
+//`include "lab2_7_tb.v"
+//`include "lab2_8_tb.v"
 
 //`include "lab3_1_rtl.v"
 //`include "lab3_2_rtl.v"
