@@ -1,3 +1,11 @@
+Uncomment respective rtl and testbench files.
+These files were downloaded from edaplayground thats why needed some changes to run on cadence server.
+
+Edaplayground link: https://www.edaplayground.com/x/B42E
+Edaplayground link: https://www.edaplayground.com/x/whiN
+Edaplayground link: https://www.edaplayground.com/x/Vh5y
+
+
 //`include "lab3_1_rtl.v"
 //`include "lab3_2_rtl.v"
 //`include "lab3_3_rtl.v"
