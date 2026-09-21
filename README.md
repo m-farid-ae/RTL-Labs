@@ -1,3 +1,5 @@
+Author of these files and repository: Muhammad Farid ud din (Associate Engineer, Impare)
+
 Uncomment respective rtl and testbench files.
 These files were downloaded from edaplayground thats why needed some changes to run on cadence server.
 
