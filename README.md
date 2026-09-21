@@ -3,9 +3,12 @@ Author of these files and repository: Muhammad Farid ud din (Associate Engineer,
 Uncomment respective rtl and testbench files.
 These files were downloaded from edaplayground thats why needed some makefile changes/ command line changes to run on cadence server.
 
-Edaplayground link: https://www.edaplayground.com/x/B42E
-Edaplayground link: https://www.edaplayground.com/x/whiN
-Edaplayground link: https://www.edaplayground.com/x/Vh5y
+
+Edaplayground link: https://www.edaplayground.com/x/sNKc  (Chap 1 Labs)
+Edaplayground link: https://www.edaplayground.com/x/XnXj  (Chap 2 Labs)
+Edaplayground link: https://www.edaplayground.com/x/B42E  (Chap 3 Labs)
+Edaplayground link: https://www.edaplayground.com/x/Vh5y  (Chap 4 Labs)
+Edaplayground link: https://www.edaplayground.com/x/whiN  (UART Project Lab)
 
 
 //`include "lab3_1_rtl.v"
